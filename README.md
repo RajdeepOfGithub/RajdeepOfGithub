@@ -12,3 +12,6 @@ Instagram: https://www.instagram.com/rajdeep_1411?r=nametag
 😄 Pronouns: He/His
 ⚡ Fun fact: The firefox logo isnt a fox.....its a red panda🙂🐼
 
+Stats : 
+
+<img src= "https://github-readme-stats.vercel.app/api?username=RajdeepOfGithub&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
