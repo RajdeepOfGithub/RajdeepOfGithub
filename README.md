@@ -3,7 +3,7 @@
 🔭 I’m currently studying in Kiit University, as a 2nd year btech CSE student.
 🌱 I’m currently learning Web-Development, data structures and algorithm.
 👯 I’m looking to collaborate on Youtube and linkedin. 
-🤔 I’m looking for help with Datastructures and ReactJS.
+🤔 Looking for help with Datastructures and ReactJS.
 💬 Ask me about any tech related querries(ofc within my reach) and basic coding logics.
 📫 How to reach me: 
 LinkedIn: https://www.linkedin.com/in/rajdeep-roy-5561621b7 , 
