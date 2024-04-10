@@ -10,7 +10,7 @@
 
 <div align="center">
  
- ⚒️🔴Coming soon!! Working on a new project - **Human Activity Recognition**🔴⚒️
+ ⚒️🔴Coming soon!! Working on a new project - **Complete DevOps Implementation with K8 Cluster**🔴⚒️
  
  ⏳ I’m currently learning **Intermediate Python, Data Visualization & Statistics 🫡**
 
