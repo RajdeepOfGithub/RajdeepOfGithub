@@ -1,8 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RajdeepOfGithub.RajdeepOfGithub" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola!!+👋;+I'm+Rajdeep+Roy;+Freshman;+At+University+Of Maryland+,+Baltimore+County+🏫" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy!!+👋;+I'm+Rajdeep;+A+DataSc+Freshman;+At+UMBC+🏫" />
 </h1>
+
+<div align="center">
+    <img src="https://github.com/RajdeepOfGithub/RajdeepOfGithub/blob/main/Build/UMBC-primary-logo-CMYK-on-black.png" alt="UMBC Logo" width="100" />
+</div>
 
 <h3 align="center">A passionate Data Engineer from India </h3>
 
