@@ -8,7 +8,7 @@
     <img src="https://github.com/RajdeepOfGithub/RajdeepOfGithub/blob/main/Build/UMBC-primary-logo-CMYK-on-black.png" alt="UMBC Logo" width="100" />
 </div>
 
-<h3 align="center">A passionate Data Engineer from India </h3>
+<h3 align="center">A Passionate Data Enthusiast</h3>
 
 <br/>
 
