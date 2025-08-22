@@ -14,13 +14,12 @@
 
 <div align="center">
  
- ⚒️🔴Coming soon!! Working on a new project - **Complete DevOps Implementation with K8 Cluster**🔴⚒️
+ ⚒️🔴Coming soon!! Working on a new project - **Skin Lesions Classification with Deep Convolutional Neural Network**🔴⚒️
  
- ⏳ I’m currently learning **Intermediate Python, Data Visualization & Statistics 🫡**
+  I am currently learning **Intermediate Python, Data Visualization & Statistics, DL and LLM **
 
-💬 Ask me about **AWS, GIT, Python Programming , Docker... or anything [here](https://github.com/RajdeepOfGithub/RajdeepOfGithub/issues)**
+  Ask me about **AWS, GIT, Python Programming , Docker... or anything [here](https://github.com/RajdeepOfGithub/RajdeepOfGithub/issues)**
 
-⚡ Fun fact😮 **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
 
