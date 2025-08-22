@@ -16,7 +16,7 @@
  
  ⚒️🔴Coming soon!! Working on a new project - **Skin Lesions Classification with Deep Convolutional Neural Network**🔴⚒️
  
-  I am currently learning **Intermediate Python, Data Visualization & Statistics, DL and LLM **
+  I am currently learning **Intermediate Python, Data Visualization & Statistics, DL and LLM**
 
   Ask me about **AWS, GIT, Python Programming , Docker... or anything [here](https://github.com/RajdeepOfGithub/RajdeepOfGithub/issues)**
 
